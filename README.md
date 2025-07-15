@@ -1,0 +1,2 @@
+# centralrepo
+mumbai and singapore
